@@ -1,0 +1,36 @@
+
+g
+java:S1192)"KDefine a constant instead of duplicating this literal "Bilgisayar" 8 times.(Úw8€¥ÉŸâ.
+@
+java:S2119m"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Õƒ´Üâ.
+T
+java:S1444"7Make this "public static kullaniciSelected" field final(àƒÁ8ÀŞÁÜá.
+p
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 171 to the 15 allowed.(Çµí‘8øŒé‚â.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤œ¨
+J
+java:S1604Z"(Make this anonymous inner class a lambda(€Ô—¸ÿÿÿÿÿ8´¨ß‚â.
+j
+java:S1104"MMake z a static final constant or non-public and provide accessors if needed.(Óà¶æ8ŸáÍÖâ.
+m
+java:S1192"ODefine a constant instead of duplicating this literal " Bilgisayar: " 12 times.(½™ã‚8šÉÀÛâ.
+i
+java:S1192x"GDefine a constant instead of duplicating this literal "Oyuncu" 7 times.(ûÇüÿÿÿÿ8Õƒ´Üâ.
+z
+java:S1104"]Make kullaniciSelected a static final constant or non-public and provide accessors if needed.(àƒÁ8¥¸ÀÜá.
+l
+java:S1192‚"NDefine a constant instead of duplicating this literal "\t Kazanan : " 6 times.(ÎŠ–¼8Õƒ´Üâ.
+D
+java:S1444"'Make this "public static z" field final(Óà¶æ8ŸáÍÖâ.
+~
+java:S1192"aDefine a constant instead of duplicating this literal "\n | Penalti karsilastirmasi |\n" 3 times.(›óü›8šÉÀÛâ.
+\
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(ÿ†‚‰8Õƒ´Üâ.
+„
+java:S1192‡"fDefine a constant instead of duplicating this literal "\n \tBerabere kartlar geri dagitildi." 6 times.(¡¥×û8Õƒ´Üâ.
+„
+java:S1192›"fDefine a constant instead of duplicating this literal "\n | Serbest Atis karsilastirmasi |\n" 4 times.(¦¿ş8Õƒ´Üâ.
+A
+java:S2119ê"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8Õƒ´Üâ.
+h
+java:S1192€"KDefine a constant instead of duplicating this literal " Oyuncu: " 12 times.(Œ‘á~8šÉÀÛâ.

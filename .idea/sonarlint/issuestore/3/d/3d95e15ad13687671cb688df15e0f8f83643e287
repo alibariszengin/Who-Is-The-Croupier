@@ -1,0 +1,10 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë‘ãæ8øÈ×Öá.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ž¤œ¨
+}
+java:S1488:"`Immediately return this expression instead of assigning it to the temporary variable "bilgiler".(Ô¶éû8üš¦Ûâ.
+’
+java:S1319P"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÆÅ«Ëúÿÿÿÿ8üš¦Ûâ.
+˜
+java:S1319T"vThe type of the "kartListesi" object should be an interface such as "List" rather than the implementation "ArrayList".(¡ý¥€ùÿÿÿÿ8ðÿˆÜá.

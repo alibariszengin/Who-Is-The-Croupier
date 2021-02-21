@@ -1,0 +1,21 @@
+
+‘
+java:S13193"tThe type of the "kullanici" object should be an interface such as "List" rather than the implementation "ArrayList".(‚ø¡‹8Úåğˆâ.
+‘
+java:S1319M"tThe type of the "kullanici" object should be an interface such as "List" rather than the implementation "ArrayList".(ÅøŞÎ8¸ïÚá.
+X	java:S110"<This class has 6 parents which is greater than 5 authorized.( Úô8İœ¦Ûâ.
+f
+java:S3252Y"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ãó8÷«Ûá.
+N
+java:S1068
+"1Remove this unused "kullaniciOrta" private field.(¦ºÅù8İœ¦Ûâ.
+=
+java:S21295" Remove this "String" constructor(¬ù´ß8Ú¿îˆâ.
+=
+java:S21294" Remove this "String" constructor(ó­Şê8Ú¿îˆâ.
+p
+java:S1104"SMake button1 a static final constant or non-public and provide accessors if needed.(ÂŞôô8İœ¦Ûâ.
+L
+java:S3740"/Provide the parametrized type for this generic.(À–ìö8ĞÊÈÛá.
+X	java:S125/"<This block of commented-out lines of code should be removed.(Íÿ¶Ç8ŠŞâ‰â.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤œ¨
