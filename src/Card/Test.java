@@ -14,14 +14,14 @@ public class Test {
     public static int kullaniciSelected=0;
     public static int z=0;
     public static void main(String[] args) {
-        Futbolcu futbolcu1 = new Futbolcu("Ali Baris Zengin","GiriskenBootcamp",90,95,100);
-        Futbolcu futbolcu2 = new Futbolcu("Nihat Zengin","Kantin",95,100,100);
-        Futbolcu futbolcu3 = new Futbolcu("Canan Zengin","Su",75,55,25);
-        Futbolcu futbolcu4 = new Futbolcu("Asya Orhan","Muzikci",50,25,90);
-        Futbolcu futbolcu5 = new Futbolcu("Can Cihan","Gamer",85,100,100);
-        Futbolcu futbolcu6 = new Futbolcu("Cihan Tabak","Su",75,20,100);
-        Futbolcu futbolcu7 = new Futbolcu("Zeyneb Tabak","Su",65,95,100);
-        Futbolcu futbolcu8 = new Futbolcu("Murat Orhan","Muzikci",70,45,100);
+        Futbolcu futbolcu1 = new Futbolcu("Daym Arch","GiriskenBootcamp",90,95,100);
+        Futbolcu futbolcu2 = new Futbolcu("Cem Hasari","Kantin",95,100,100);
+        Futbolcu futbolcu3 = new Futbolcu("Engin Güzel","Su",75,55,25);
+        Futbolcu futbolcu4 = new Futbolcu("Durak Vurucu","Muzikci",50,25,90);
+        Futbolcu futbolcu5 = new Futbolcu("Birol Taş","Gamer",85,100,100);
+        Futbolcu futbolcu6 = new Futbolcu("Siren Marul","Su",75,20,100);
+        Futbolcu futbolcu7 = new Futbolcu("Ronaldo","Su",65,95,100);
+        Futbolcu futbolcu8 = new Futbolcu("Messi","Muzikci",70,45,100);
 
         ArrayList<Futbolcu> futbolcular=new ArrayList<>();
         futbolcular.addAll(Arrays.asList(futbolcu1,futbolcu2,futbolcu3,futbolcu4,futbolcu5,futbolcu6,futbolcu7,futbolcu8));
